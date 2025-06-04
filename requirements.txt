@@ -1,7 +1,12 @@
 streamlit
 pandas
-torch
-scikit-learn
+numpy
 matplotlib
+scikit-learn
 seaborn
 openpyxl
+joblib
+Pillow
+
+torch==2.1.0
+torchvision==0.16.0
